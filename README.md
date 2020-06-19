@@ -1,4 +1,4 @@
 # URI Resolutions
- URI Resolutions in Python, C++ and Java
+ URI Resolutions in C++
 
 This page was created to training to Programming Marathon
